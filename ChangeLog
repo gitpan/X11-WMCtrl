@@ -1,0 +1,9 @@
+2004-01-13 14:03  jodrell
+
+	* lib/X11/WMCtrl.pm: fixed typos in docs.
+
+2004-01-11 22:05  jodrell
+
+	* Makefile.PL, README, test.pl, lib/X11/WMCtrl.pm: a new module,
+	that's a wrapper to the wmctrl program.
+
